@@ -1,4 +1,6 @@
-!/three.js-master/
-!/node_modules/
-!/.idea/
-!.DS_Store
+*
+!.gitignore
+!index.html
+!package-lock.json
+!script.js
+!three.min.js
