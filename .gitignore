@@ -1,6 +1,4 @@
-*
-!.gitignore
-!index.html
-!package-lock.json
-!script.js
-!three.min.js
+.DS_Store
+.idea/
+04-webpack/node_modules
+three.js-master/
