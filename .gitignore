@@ -1,4 +1,4 @@
 .DS_Store
 .idea/
-04-webpack/node_modules
+*/node_modules
 three.js-master/
